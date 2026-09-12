@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.pyc
+dissertation_data.csv
+cleaned_research_data.csv
+cleaned_for_vrp.csv
+dataset_clean_2000_2025.csv
+cleaned_diss_2000_2025.csv
